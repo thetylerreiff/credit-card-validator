@@ -3,7 +3,7 @@
 The monorepo for credit card validation using [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm). It contains the [`api`](packages/api/README.md) and [`web`](packages/web/README.md) packages.
 
 ## Getting Started
-This app is built using [NodeJS 20](https://nodejs.org/en/) and [npm](https://yarnpkg.com/). Please make sure you have them installed before proceeding (Node 16.x and 18.x will also work). [`nvm`](https://github.com/nvm-sh/nvm) is recommeneded for managing NodeJS versions.
+This app is built using [NodeJS 20](https://nodejs.org/en/) and [npm](https://npmjs.com/). Please make sure you have them installed before proceeding (Node 16.x and 18.x will also work). [`nvm`](https://github.com/nvm-sh/nvm) is recommeneded for managing NodeJS versions.
 
 ### Installation
 1. Clone the repo
